@@ -11,6 +11,9 @@ scrolling.
 The home page has a greeting and 3 buttons in the main body, which will take you
 to my LinkedIn page, Github profile page, and resume hosted on Google Docs, 
 respectively. 
+
+The live website can be reached at:
+[Bio_2.0 Home Page](https://jonmakesitbetter.github.io/Bio_2.0/)
 ![Home page](Images\HomePage.png)
 
 # Portfolio Page
