@@ -9,7 +9,7 @@ nav {
   font-size: 2rem;
   font-family: "Parisienne", cursive;
 }
-.card {
+/* .card {
   background-color: rgb(143, 132, 132);
 }
 .card-img-top {
@@ -21,11 +21,11 @@ nav {
 
 .card {
   margin: 5rem;
-}
+} */
 
 footer {
   position:fixed;
-  left: 0;
+  
   bottom: 0;
   width: 100%;
   height: 2rem;
@@ -40,13 +40,10 @@ body {
   font-family: "Parisienne", cursive;
   margin: 10rem;
 }
-#portfolio-jumbotron {
-  margin-top: 2%;
-  margin-left: 22%;
-}
+
 .tribe {
-  width: 50vw;
-  height: 50vh;
+  width: 20vw;
+  height: 20vh;
 }
 .lead{
     color:white;
