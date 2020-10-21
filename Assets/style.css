@@ -5,13 +5,16 @@ body {
 nav {
   background-color: rgb(143, 132, 132);
 }
+
 .my-name {
   font-size: 2rem;
   font-family: "Parisienne", cursive;
 }
-/* .card {
+
+.card {
   background-color: rgb(143, 132, 132);
 }
+
 .card-img-top {
   width: 80%;
   height: auto;
@@ -21,20 +24,22 @@ nav {
 
 .card {
   margin: 5rem;
-} */
+}
 
 footer {
-  position:fixed;
-  
+  position: fixed;
+
   bottom: 0;
   width: 100%;
   height: 2rem;
   background-color: rgb(143, 132, 132);
   text-align: center;
 }
+
 body {
   background-image: url(../Images/toppng.com-clipart-free-download-and-frames-picture-calligraphic-transparent-background-fancy-borders-3389x2777.png);
 }
+
 .email-phone {
   color: white;
   font-family: "Parisienne", cursive;
@@ -45,6 +50,7 @@ body {
   width: 20vw;
   height: 20vh;
 }
-.lead{
-    color:white;
+
+.lead {
+  color: white;
 }
